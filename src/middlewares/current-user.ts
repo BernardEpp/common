@@ -35,4 +35,4 @@ const currentUser = (
   next();
 }
 
-export default currentUser;
+export { currentUser };

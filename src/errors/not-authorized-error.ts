@@ -14,4 +14,4 @@ class NotAuthorizedError extends CustomError {
   }
 }
 
-export default NotAuthorizedError;
+export { NotAuthorizedError };

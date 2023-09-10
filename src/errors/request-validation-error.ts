@@ -21,4 +21,4 @@ class RequestValidationError extends CustomError {
   }
 }
 
-export default RequestValidationError;
+export {  RequestValidationError };

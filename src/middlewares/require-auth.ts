@@ -13,4 +13,4 @@ const requireAuth = (
   next();
 }
 
-export default requireAuth;
+export { requireAuth };

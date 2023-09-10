@@ -15,4 +15,4 @@ class DatabaseConnectionError extends CustomError {
    }
 }
 
-export default DatabaseConnectionError;
+export { DatabaseConnectionError };
