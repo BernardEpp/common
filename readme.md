@@ -7,7 +7,7 @@ This library is written in TypeScript but published as JavaScript to increase th
 
 ## Publish to NPM
 
-To increase the version number (path number to be more specific, see semantic versioning for more info), run
+To increase the version number (patch number to be more specific, see semantic versioning for more info), run
 
 ```
   npm version patch
@@ -19,7 +19,7 @@ To build the library run:
   npm run build
 ```
 
-To publish make sure all changed are commited in git then run (assuming that you are logged in):
+To publish, make sure all changed are commited in git then run (assuming that you are logged in):
 
 ```
   npm publish
