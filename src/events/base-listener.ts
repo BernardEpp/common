@@ -60,4 +60,4 @@ abstract class Listener<T extends Event> {
   }
 }
 
-export default Listener;
+export {Listener};
