@@ -1,3 +1,6 @@
+/**
+ * TODO: Using this class in other projcets for some reason leads to a compile error. 
+ */
 import { Message, Stan } from 'node-nats-streaming';
 import { Subjects } from './subjects';
 
